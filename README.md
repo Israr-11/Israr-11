@@ -5,9 +5,10 @@
 <img alt="Steam Views" src="https://img.shields.io/steam/views/2">
 <div>
  <p>
-I am a Web developer skilled at creating beautiful and responsive websites and web applications. Often praised as hardworking and helping team player by my peers.Love to code websites and fix bugs 😉
-   
+I am a Web developer skilled at creating beautiful and responsive websites and web applications. Often praised as hardworking and a helping team player by my peers. Love to code websites and fix bugs 😉
+
 I have good coding skills and the ability to convert requirements to pixel-perfect websites and web applications
+
 </p>
 </div>
 
