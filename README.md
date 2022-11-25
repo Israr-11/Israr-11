@@ -33,7 +33,7 @@ I have good coding skills and the ability to convert requirements to pixel-perfe
 
 ### Github Stats
 
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/Israr-11/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Israr-11&theme=buefy&show_icons=true" />
   </br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Israr-11&theme=buefy&layout=compact" />
