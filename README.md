@@ -22,7 +22,7 @@ I have good coding skills and the ability to convert requirements to pixel-perfe
 <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/-Tailwind CSS-787878?style=flat">
 </br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-PHP-4DB33D?style=flat&logo=php&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-Express js-4DB33D?style=flat&logo=php&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-Wordpress-0080ff?style=flat&logo=wordpress&logoColor=FFFFFF">
 </br>
 
