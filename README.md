@@ -9,9 +9,10 @@ I am a Full Stack Developer with MERN Stack and JavaScript expertise. I bring a 
 </p>
 </div>
 
-<div style=width="480" height="270">
-  <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" alt="Coding GIF">
+<div style="width: 100%; height: 0; padding-bottom: 56%; position: relative;">
+  <iframe src="https://giphy.com/embed/26tn33aiTi1jkl6H6" width="100%" height="100%" style="position: absolute;" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 </div>
+<p><a href="https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6">via GIPHY</a></p>
 
 
 ### Skills 🌐
