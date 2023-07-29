@@ -4,10 +4,20 @@
 
 <img alt="Steam Views" src="https://img.shields.io/steam/views/2">
 <div>
- <p>
-I am a Full Stack Developer with MERN Stack and JavaScript expertise. I bring a unique set of skills to the table with my ability to work with both the front-end and back-end of web applications. My strong understanding of React, Node.js, Express, and MongoDB allows me to build dynamic and efficient web applications with exceptional user experience. With my proficiency in JavaScript, I ensure that my code is clean, maintainable, and scalable, making me an ideal fit for any project.
-</p>
+  <p>
+    ✅ I am a Full Stack Developer with MERN Stack and JavaScript expertise.
+  </p>
+  <p>
+    ✅ I bring a unique set of skills to the table with my ability to work with both the front-end and back-end of web applications.
+  </p>
+  <p>
+    ✅ My strong understanding of React, Node.js, Express, and MongoDB allows me to build dynamic and efficient web applications with exceptional user experience.
+  </p>
+  <p>
+    ✅ With my proficiency in JavaScript, I ensure that my code is clean, maintainable, and scalable, making me an ideal fit for any project.
+  </p>
 </div>
+
 
 <img src="https://media.giphy.com/media/dZX3AduGrY3uJ7qCsx/giphy.gif" alt="Coding GIF" width="1000" height="450">
 <p><a href="https://giphy.com/gifs/hackernoon-hacker-noon-dZX3AduGrY3uJ7qCsx"></a></p>
