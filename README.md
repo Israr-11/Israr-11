@@ -13,9 +13,7 @@
   <p>
     ✅ My strong understanding of React, Node.js, Express, and MongoDB allows me to build dynamic and efficient web applications with exceptional user experience.
   </p>
-  <p>
-    ✅ With my proficiency in JavaScript, I ensure that my code is clean, maintainable, and scalable, making me an ideal fit for any project.
-  </p>
+
 </div>
 
 
