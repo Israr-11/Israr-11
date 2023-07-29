@@ -10,7 +10,7 @@ I am a Full Stack Developer with MERN Stack and JavaScript expertise. I bring a 
 </div>
 
 ![Coding GIF](https://media.giphy.com/media/dZX3AduGrY3uJ7qCsx/giphy.gif)
-<p><a href="https://giphy.com/gifs/hackernoon-hacker-noon-dZX3AduGrY3uJ7qCsx">via GIPHY</a></p>
+<p><a href="https://giphy.com/gifs/hackernoon-hacker-noon-dZX3AduGrY3uJ7qCsx"></a></p>
 
 
 
