@@ -9,6 +9,8 @@ I am a Full Stack Developer with MERN Stack and JavaScript expertise. I bring a 
 </p>
 </div>
 
+![Coding GIF](<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/HscDLzkO8EOTmgkhQP" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/thecodingspacerd-code-coder-lets-HscDLzkO8EOTmgkhQP">via GIPHY</a></p>)
+
 ### Skills 🌐
 
 <img src = "https://img.shields.io/badge/-HTML 5-E34F26?style=flat&logo=html5&logoColor=white">&nbsp; <img src = "https://img.shields.io/badge/-CSS 3-1572B6?style=flat&logo=css3&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
