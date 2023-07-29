@@ -17,7 +17,6 @@ I am a Full Stack Developer with MERN Stack and JavaScript expertise. I bring a 
 </br>
 <img src="https://img.shields.io/badge/-Python-0000ff?style=flat&logo=python&logoColor=yellow">
 <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
-</br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Express.js-007ACC?style=flat&logo=Node.js&logoColor=white">
 </br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white">
