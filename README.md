@@ -9,8 +9,8 @@ I am a Full Stack Developer with MERN Stack and JavaScript expertise. I bring a 
 </p>
 </div>
 
-<div style="width: 100px;">
-  <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" style="max-width: 100%;" alt="Coding GIF">
+<div style=width="480" height="270">
+  <img src="[https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif]" alt="Coding GIF">
 </div>
 
 
