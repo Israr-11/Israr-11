@@ -9,7 +9,9 @@ I am a Full Stack Developer with MERN Stack and JavaScript expertise. I bring a 
 </p>
 </div>
 
-![Coding GIF](https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif)
+<div style="width: 100%;">
+  <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" style="max-width: 100%;" alt="Coding GIF">
+</div>
 
 
 ### Skills 🌐
