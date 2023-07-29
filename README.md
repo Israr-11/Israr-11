@@ -9,7 +9,7 @@ I am a Full Stack Developer with MERN Stack and JavaScript expertise. I bring a 
 </p>
 </div>
 
-<img src="https://media.giphy.com/media/dZX3AduGrY3uJ7qCsx/giphy.gif" alt="Coding GIF" width="1000" height="400">
+<img src="https://media.giphy.com/media/dZX3AduGrY3uJ7qCsx/giphy.gif" alt="Coding GIF" width="1000" height="450">
 <p><a href="https://giphy.com/gifs/hackernoon-hacker-noon-dZX3AduGrY3uJ7qCsx"></a></p>
 
 
