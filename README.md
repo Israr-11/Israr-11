@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm [Israr Ahmed](https://israrportfolio.netlify.app/)
-> Full Stack Developer []()
+> Software Engineer []()
 
 
 <img alt="Steam Views" src="https://img.shields.io/steam/views/2">
