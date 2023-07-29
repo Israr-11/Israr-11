@@ -5,7 +5,7 @@
 <img alt="Steam Views" src="https://img.shields.io/steam/views/2">
 <div>
  <p>
-I am a Full Stack Developer with expertise in the MERN Stack and JavaScript. I bring a unique set of skills to the table with my ability to work with both the front-end and back-end of web applications. My strong understanding of React, Node.js, Express, and MongoDB allows me to build dynamic and efficient web applications that provide an exceptional user experience. With my proficiency in JavaScript, I ensure that my code is clean, maintainable, and scalable, making me an ideal fit for any project.
+I am a Full Stack Developer with MERN Stack and JavaScript expertise. I bring a unique set of skills to the table with my ability to work with both the front-end and back-end of web applications. My strong understanding of React, Node.js, Express, and MongoDB allows me to build dynamic and efficient web applications with exceptional user experience. With my proficiency in JavaScript, I ensure that my code is clean, maintainable, and scalable, making me an ideal fit for any project.
 </p>
 </div>
 
@@ -17,12 +17,11 @@ I am a Full Stack Developer with expertise in the MERN Stack and JavaScript. I b
 </br>
 <img src="https://img.shields.io/badge/-Python-0000ff?style=flat&logo=python&logoColor=yellow">
 <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
-<img src="https://img.shields.io/badge/-Tailwind CSS-787878?style=flat">
 </br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-Express.js-007ACC?style=flat&logo=Node.js&logoColor=white">
-<img src="https://img.shields.io/badge/-Wordpress-0080ff?style=flat&logo=wordpress&logoColor=FFFFFF">
 </br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white">
+<img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
 </br>
 
 ### Tools 🛠️
