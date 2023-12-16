@@ -1,4 +1,4 @@
-### Hi there 👋 I'm [Israr Ahmed](https://israrportfolio.netlify.app/)
+### Hi there 👋 I'm [Israr Ahmed](https://israrahmed.netlify.app/)
 > Software Engineer []()
 
 
