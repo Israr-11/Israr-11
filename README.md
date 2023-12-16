@@ -50,7 +50,7 @@
 
 
 <p align="center">
-<a href="https://israrportfolio.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-Israr Portfolio-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://israrahmed.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-Israr Portfolio-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/engineer-israr-ahmed/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Israr Ahmed-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.quora.com/profile/Israr-Ahmed-688"><img alt="Quora" src="https://img.shields.io/badge/Quora-Israr Ahmed-blue?style=flat-square&logo=quora"></a>
 </p>
