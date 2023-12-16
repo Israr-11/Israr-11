@@ -5,7 +5,7 @@
 <img alt="Steam Views" src="https://img.shields.io/steam/views/2">
 <div>
   <p>
-    ✅ I am a Full Stack Developer with MERN Stack and JavaScript expertise.
+    ✅ I am a Full Stack Software Developer with MERN Stack and Python expertise.
   </p>
   <p>
     ✅ I bring a unique set of skills to the table with my ability to work with both the front-end and back-end of web applications.
@@ -17,7 +17,7 @@
 </div>
 
 
-<img src="https://media.giphy.com/media/dZX3AduGrY3uJ7qCsx/giphy.gif" alt="Coding GIF" width="1000" height="450">
+<img src="[https://media.giphy.com/media/dZX3AduGrY3uJ7qCsx/giphy.gif](https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk")" alt="Coding GIF" width="1000" height="450">
 <p><a href="https://giphy.com/gifs/hackernoon-hacker-noon-dZX3AduGrY3uJ7qCsx"></a></p>
 
 
