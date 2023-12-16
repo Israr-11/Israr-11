@@ -17,7 +17,7 @@
 </div>
 
 
-<img src="[https://media.giphy.com/media/dZX3AduGrY3uJ7qCsx/giphy.gif](https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk")" alt="Coding GIF" width="1000" height="450">
+<img src="https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk" alt="Coding GIF" width="1000" height="450">
 <p><a href="https://giphy.com/gifs/hackernoon-hacker-noon-dZX3AduGrY3uJ7qCsx"></a></p>
 
 
