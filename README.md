@@ -16,15 +16,8 @@
 
 </div>
 
-
-<img src="https://media.giphy.com/media/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk/giphy.gif" alt="Coding GIF" width="1000" height="450">
-<p><a href="https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk">Source</a></p>
-
-
-
-
-
-
+<img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" alt="Coding GIF" width="100%" style="max-width: 1000px; height: auto;">
+<p><a href="https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk">via GIPHY</a></p>
 
 
 ### Skills 🌐
