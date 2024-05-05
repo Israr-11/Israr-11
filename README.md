@@ -5,7 +5,7 @@
 <img alt="Steam Views" src="https://img.shields.io/steam/views/2">
 <div>
   <p>
-    ✅ I am a Full Stack Software Developer with MERN Stack and Python expertise.
+    ✅ I am a Software Engineer with MERN Stack, ASP.NET, and Python expertise.
   </p>
   <p>
     ✅ I bring a unique set of skills to the table with my ability to work with both the front-end and back-end of web applications.
