@@ -26,7 +26,7 @@
     ✅ Expertise in creating secure authentication systems using JWT, OAuth, and custom methods.
   </p>
 <p>
-  ✅ Delivered projects across multiple domains, including health tech, e-commerce, environmental sustainability, fitness, and human resources.
+  ✅ Delivered projects across multiple domains, including health tech, e-commerce, fitness, and human resources.
 </p>
   <p>
     ✅ Skilled in leading end-to-end deployments, ensuring CI/CD pipelines for fast and reliable releases.
