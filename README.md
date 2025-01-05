@@ -53,6 +53,7 @@
   </p>
   <p>
     <img src="https://img.shields.io/badge/-Python-0000ff?style=flat&logo=python&logoColor=yellow">&nbsp;
+    <img src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white">
     <img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white">&nbsp;
     <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white">&nbsp;
     <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=node.js&logoColor=white">&nbsp;
@@ -62,7 +63,6 @@
   <p>
     <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">&nbsp;
     <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white">&nbsp;
-    <img src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white">
   </p>
 </div>
 </br>
