@@ -8,7 +8,7 @@
     ✅ I am a Software Engineer with 3 years of experience in MERN Stack, ASP.NET, and Python.
   </p>
   <p>
-    ✅ Built end-to-end applications used by over 50 companies, earning thousands in revenue. 
+    ✅ Built end-to-end applications used by thousands of users. 
   </p>
   <p>
     ✅ Experienced in building cloud-based architecture using AWS.
