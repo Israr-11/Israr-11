@@ -39,8 +39,10 @@
 
 </div>
 
-<img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" alt="Coding GIF" width="100%" style="max-width: 1000px; height: 500px;">
-<p><a href="https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk"></a></p>
+### Contribution Graph
+
+[![Israr's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Israr-11&bg_color=ffffff&color=000000&line=1db954&point=000000&area=true&hide_border=true)](https://github.com/Israr-11)
+
 
 
 ### Skills 🌐
