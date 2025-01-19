@@ -39,12 +39,6 @@
 
 </div>
 
-### Contribution Graph
-
-[![Israr's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Israr-11&bg_color=ffffff&color=000000&line=1db954&point=000000&area=true&hide_border=true)](https://github.com/Israr-11)
-
-
-
 ### Skills 🌐
 
 <div>
@@ -79,6 +73,11 @@
     <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white">
   </p>
 </div>
+
+### Contribution Graph
+
+[![Israr's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Israr-11&bg_color=0d1117&color=58a6ff&line=00c853&point=ff5722&area=true&hide_border=true)](https://github.com/Israr-11)
+
 
 ### Github Stats
 
