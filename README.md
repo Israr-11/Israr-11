@@ -80,11 +80,12 @@
 
 ### Github Stats
 
-[<a href="https://github.com/Israr-11/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Israr-11&theme=buefy&show_icons=true" />
-  </br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Israr-11&theme=buefy&layout=compact" />
-</a>](url)
+### Github Stats
+
+![Israr's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Israr-11&show_icons=true&hide_title=true&hide=contribs&hide_rank=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Israr-11&layout=compact&theme=default)
+
 
 <h3> 🤝🏻 &nbsp;Hey! let's connect </h3>
 
