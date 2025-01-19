@@ -77,7 +77,11 @@
 [[### Contribution Graph
 
 [![Israr's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Israr-11&bg_color=0d1117&color=58a6ff&line=00c853&point=ff5722&area=true&hide_border=true)](https://github.com/Israr-11)](url)](url)
-![Code Streak](https://github-readme-streak-stats.herokuapp.com/?user=Israr-11&theme=highcontrast&hide_border=true)
+![GitHub Commits Badge](https://img.shields.io/badge/Total%20Commits-10k+-blue?style=for-the-badge)
+![Repositories Badge](https://img.shields.io/badge/Public%20Repos-25+-brightgreen?style=for-the-badge)
+![Followers Badge](https://img.shields.io/badge/Followers-100+-orange?style=for-the-badge)
+![Stars Badge](https://img.shields.io/badge/Stars-200+-yellow?style=for-the-badge)
+
 
 
 
