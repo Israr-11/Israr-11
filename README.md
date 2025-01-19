@@ -74,9 +74,11 @@
   </p>
 </div>
 
-### Contribution Graph
+[[### Contribution Graph
 
-[![Israr's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Israr-11&bg_color=0d1117&color=58a6ff&line=00c853&point=ff5722&area=true&hide_border=true)](https://github.com/Israr-11)
+[![Israr's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Israr-11&bg_color=0d1117&color=58a6ff&line=00c853&point=ff5722&area=true&hide_border=true)](https://github.com/Israr-11)](url)](url)
+![Code Streak](https://github-readme-streak-stats.herokuapp.com/?user=Israr-11&theme=highcontrast&hide_border=true)
+
 
 
 ### Github Stats
