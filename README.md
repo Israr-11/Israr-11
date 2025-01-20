@@ -5,7 +5,7 @@
 <img alt="Steam Views" src="https://img.shields.io/steam/views/2">
 <div>
   <p>
-    ✅ I am a Software Engineer with 3 years of experience in MERN Stack, ASP.NET, and Python.
+    ✅ I am a Software Engineer with 3 years of experience in JavaScript, ASP.NET, and Python.
   </p>
   <p>
     ✅ Built end-to-end applications used by thousands of users. 
