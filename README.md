@@ -81,13 +81,3 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Israr-11&layout=compact&theme=radical&langs_count=8)
 
 
-<h3> 🤝🏻 &nbsp;Hey! let's connect </h3>
-
-
-<p align="center">
-<a href="https://israr.tech/"><img alt="Website" src="https://img.shields.io/badge/Website-Israr Portfolio-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/engineer-israr-ahmed/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Israr Ahmed-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.quora.com/profile/Israr-Ahmed-688"><img alt="Quora" src="https://img.shields.io/badge/Quora-Israr Ahmed-blue?style=flat-square&logo=quora"></a>
-</p>
-
-
