@@ -4,36 +4,12 @@
 
 <img alt="Steam Views" src="https://img.shields.io/steam/views/2">
 <div>
-  <p>
-    ✅ I am a Software Engineer with 3+ years of experience in JavaScript, ASP.NET, and Python.
-  </p>
-  <p>
-    ✅ Built end-to-end applications used by thousands of users. 
-  </p>
-  <p>
-    ✅ Experienced in building cloud-based architecture using AWS.
-  </p>
-  <p>
-    ✅ Good at designing and implementing scalable APIs and microservices.
-  </p>
-  <p>
-    ✅ Successfully integrated machine learning models into enterprise-level applications.
-  </p>
-  <p>
-    ✅ Developed SaaS products with advanced features such as subscription plans and real-time analytics.
-  </p>
-  <p>
-    ✅ Expertise in creating secure authentication systems using JWT, OAuth, and custom methods.
-  </p>
-<p>
-  ✅ Delivered projects across multiple domains, including health tech, e-commerce, fitness, and human resources.
-</p>
-  <p>
-    ✅ Skilled in leading end-to-end deployments, ensuring CI/CD pipelines for fast and reliable releases.
-  </p>
-  <p>
-    ✅ Very good at optimizing backend systems for performance and scalability.
-  </p>
+  <p>✅ Software Engineer with 3+ years of experience in JavaScript, TypeScript and Python.</p>
+  <p>✅ Built full-stack apps used by thousands, with cloud-based architecture on AWS </p>
+  <p>✅ Expert in scalable APIs, microservices, and secure auth (JWT, OAuth, custom).</p>
+  <p>✅ Integrated ML models into real-world enterprise systems.</p>
+  <p>✅ Delivered SaaS products with features like subscriptions and real-time analytics.</p>
+  <p>✅ Strong in backend optimization, CI/CD, and cross-domain project delivery (health tech, e-commerce, fitness, HR).</p>
 </div>
 
 
