@@ -4,7 +4,7 @@
 
 <img alt="Steam Views" src="https://img.shields.io/steam/views/2">
 <div>
-  <p>✅ Software Engineer with 3+ years of experience in JavaScript, TypeScript and Python.</p>
+  <p>✅ Software Engineer with 3.5+ years of experience in JavaScript, TypeScript and Python.</p>
   <p>✅ Built full-stack apps used by thousands, with cloud-based architecture on AWS </p>
   <p>✅ Expert in scalable APIs, microservices, and secure auth (JWT, OAuth, custom).</p>
   <p>✅ Integrated ML models into real-world enterprise systems.</p>
