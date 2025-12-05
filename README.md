@@ -50,10 +50,10 @@
   </p>
 </div>
 
-//### Github Stats
+/*### Github Stats
 
-//![Israr's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Israr-11&show_icons=true&hide_title=true&hide=contribs&hide_rank=true&theme=default)
+![Israr's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Israr-11&show_icons=true&hide_title=true&hide=contribs&hide_rank=true&theme=default)
 
-//![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Israr-11&layout=compact&theme=radical&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Israr-11&layout=compact&theme=radical&langs_count=8)*/
 
 
