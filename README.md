@@ -21,7 +21,7 @@
   <p>
     <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">&nbsp;
     <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">&nbsp;
-    <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=ffffff">&nbsp;
+    <img src="https://img.shields.io/badge/-Next.js-4FC08D?style=flat&logo=next.js&logoColor=ffffff">&nbsp;
   </p>
   <p>
     <img src="https://img.shields.io/badge/-Python-0000ff?style=flat&logo=python&logoColor=yellow">&nbsp;
