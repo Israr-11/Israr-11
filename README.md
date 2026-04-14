@@ -5,7 +5,7 @@
 <img alt="Steam Views" src="https://img.shields.io/steam/views/2">
 <div>
   <p>✅ Software Engineer with 5 years of experience in JavaScript, Go, TypeScript, and Python.</p>
-  <p>✅ Built full-stack apps used by thousands, with cloud-based architecture on AWS </p>
+  <p>✅ Built full-stack apps used by thousands, with cloud-based architecture </p>
   <p>✅ Expert in scalable APIs, microservices, and secure auth (JWT, OAuth, custom).</p>
   <p>✅ Integrated ML models into real-world enterprise systems.</p>
   <p>✅ Delivered SaaS products with features like subscriptions and real-time analytics.</p>
