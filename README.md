@@ -2,8 +2,6 @@
 > Software Engineer []()
 
 
-[<img alt="Steam Views" src="https://img.shields.io/steam/views/2">
-](url)<div>
   <p>✅ Software Engineer with 5 years of experience in JavaScript, Go, TypeScript, and Python.</p>
   <p>✅ Built full-stack apps used by thousands, with cloud-based architecture </p>
   <p>✅ Expert in scalable APIs, microservices, and secure auth (JWT, OAuth, custom).</p>
