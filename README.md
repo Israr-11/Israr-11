@@ -2,12 +2,13 @@
 > Software Engineer []()
 
 
-  <p>✅ Software Engineer with 5 years of experience in JavaScript, Go, TypeScript, and Python.</p>
-  <p>✅ Built full-stack apps used by thousands, with cloud-based architecture </p>
-  <p>✅ Expert in scalable APIs, microservices, and secure auth (JWT, OAuth, custom).</p>
-  <p>✅ Integrated ML models into real-world enterprise systems.</p>
-  <p>✅ Delivered SaaS products with features like subscriptions and real-time analytics.</p>
-  <p>✅ Strong in backend optimization, CI/CD, and cross-domain project delivery (health tech, e-commerce, fitness, HR).</p>
+<p>✅ Software Engineer with 5 years of experience in Python, TypeScript/JavaScript, and Go.</p>
+<p>✅ Currently focused on AI engineering: RAG pipelines, embedding-based retrieval, and MCP (Model Context Protocol) integrations.</p>
+<p>✅ Built full-stack apps used by thousands, with cloud-based architecture.</p>
+<p>✅ Expert in scalable APIs, microservices, and secure auth (JWT, OAuth, custom).</p>
+<p>✅ Integrated ML models into real-world enterprise systems, now extending into LLM-powered workflows and agentic tooling.</p>
+<p>✅ Delivered SaaS products with features like subscriptions and real-time analytics.</p>
+<p>✅ Strong in backend optimization, CI/CD, and cross-domain project delivery (health tech, e-commerce, fitness, HR).</p>
 </div>
 
 
